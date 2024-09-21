@@ -1,0 +1,9 @@
+[submodule "s24-a2-vanesabasheva"]
+	path = s24-a2-vanesabasheva
+	url = https://github.com/web-engineering-tuwien/s24-a2-vanesabasheva.git
+[submodule "s24-a1-vanesabasheva"]
+	path = s24-a1-vanesabasheva
+	url = https://github.com/web-engineering-tuwien/s24-a1-vanesabasheva.git
+[submodule "s24-a3-vanesabasheva"]
+	path = s24-a3-vanesabasheva
+	url = https://github.com/web-engineering-tuwien/s24-a3-vanesabasheva.git
